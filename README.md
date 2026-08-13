@@ -1,5 +1,5 @@
 # 💫 About Me:
-A React project that focuses on creating interactive UI components and improving user experience.<br>Open-source projects related to web development, React apps, or JavaScript tools.<br>Learning backend technologies like Node.js and Express to become a full-stack developer.<br>React, Next.js, and modern front-end design principles using Tailwind CSS.<br>Frontend development, building clean UI/UX, or getting started with JavaScript and React.<br>I love strategy games and fantasy worlds like The Hobbit and The Lord of the Rings — they inspire my creativity in coding!
+Motivated and adaptable Software Developer with a strong foundation in software engineering and hands-on experience building practical software solutions. Strong problem-solving and analytical skills, with experience in application development, databases, APIs, debugging, version control, and the software development lifecycle. Quick to learn new technologies and able to adapt to different development environments while maintaining a focus on clean, reliable, and maintainable code.
 
 
 ## 🌐 Socials:
